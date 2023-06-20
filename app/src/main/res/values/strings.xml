@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Basic Banking App</string>
+    <string name="CustomersList">View All Customers</string>
+    <string name="AllCustomers">All Customers</string>
+    <string name="Bank">Welcome to Basic Bank</string>
+    <string name="Tag">We value our Customers</string>
+</resources>
